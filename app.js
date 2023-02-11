@@ -13,7 +13,7 @@ window.onload = () => {
 
   let scoreCounter = 0;
   let randomWords = null;
-  let timerCounter = 32;
+  let timerCounter = 60;
   let timerInterval = 1000;
   let interval = setInterval(startTimer, timerInterval);
   let highScoreCounter = 0;
